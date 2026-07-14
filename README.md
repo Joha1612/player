@@ -1,4 +1,4 @@
-#Credits
+# Credits
 This project is a modified and improved version of MirazMac's Media-Stream-Player project.
 
 Original project: https://github.com/MirazMac/Media-Stream-Player
